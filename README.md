@@ -1,4 +1,4 @@
-# Des jeux sérieux pour enseigner l'élevage de précision - Panique 
+# Des jeux sérieux pour enseigner l'élevage de précision - Panique à la ferme 
 
 Vous connaissez le concept de l’escape game et du serious game ? le logiciel R ? Nous avons fusionné les trois en un pour enseigner l’élevage de précision et R à des étudiants de niveau BTS à Ingénieur/Master 2 au travers de 2 escape game pédagogiques intitulés « R’Scape the office » et « Panique à la ferme ».
 Combinant à la fois le côté éducatif d’un Serious Game et ludique de l’Escape Game, deux « Serious Escape Game » (SEG), intitulés « Rscape the Office » et « Panique à la ferme » viennent d’être réalisés.
