@@ -30,5 +30,9 @@ Pour installer un jeu il suffit de faire tourner un court script qui va installe
 # Lancement du jeu Panique à la ferme
 
 1. Télécharger le script "lancement_PANIQUE.Rmd" depuis ce dépot GIT vers le répertoire dédié.   
-2. Ouvrir le script lancement des jeux et faites tourner toutes les lignes de la cellule correspondant au jeu que vous souhaitez lancer.   
+2. Ouvrir le script lancement des jeux et faites tourner toutes les lignes de la cellule correspondant au jeu que vous souhaitez lancer.
+
+# Un problème ? 
+
+Utiliser la fonciton pull request (en haut) offerte pas github. 
 
