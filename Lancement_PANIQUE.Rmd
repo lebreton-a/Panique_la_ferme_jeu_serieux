@@ -1,0 +1,30 @@
+---
+title: "Lancement des Escapes Games"
+author: "Adrien Lebreton"
+date: "12/01/2024"
+output: html_document
+---
+
+Avant de lancer les jeux vous devez avoir installez chaque jeu complètement en suivant la procédure d'installation. 
+
+# Lancement du jeu Panique à la ferme 
+
+```{r}
+library(PANIQUE)
+library(learnr)
+
+
+
+learnr::run_tutorial(name = "panique_a_la_ferme",package = "PANIQUE",clean = "TRUE",as_rstudio_job = FALSE)
+```
+
+# Lancement du jeu Rscape the office 
+
+```{r}
+library(RscapeTheOffice)
+library(learnr)
+
+
+
+learnr::run_tutorial("rscapetheoffice", "RscapeTheOffice",clean = "TRUE", as_rstudio_job = FALSE)
+```

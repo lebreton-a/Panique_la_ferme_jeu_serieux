@@ -1,0 +1,33 @@
+---
+title: "Installation + utilisation package"
+author: "Adrien Lebreton"
+date: "21/11/2023"
+output: html_document
+---
+
+# Information sur votre installation
+
+
+
+# Installation Panique à la ferme  
+
+Si vous souhaitez installer "Panique à la ferme", faitez tourner les ligne 27 à 29.
+
+R va vous demander : 
+"These packages have more recent versions available.
+It is recommended to update all of them.
+Which would you like to update?"
+
+Répondre "CRAN packages only"
+
+Refuser l'installation depuis "source"
+
+
+```{r}
+install.packages("devtools") #on installe devtools pour pouvoir installer en local 
+library(devtools) # on charge devtools
+devtools::install_local("PANIQUE_0.0.0.9004.tar.gz",upgrade = TRUE,force=TRUE) # on installe le package portant le jeu depuis le fichier zippé qui doit être dans le même répertoire que le script
+
+```
+
+
