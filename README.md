@@ -9,13 +9,13 @@ Il existe 2 jeux : « R’scape the office » et « Panique à la ferme ». Ils 
 
 # Installation du jeu Panique à la ferme  
 
-1. Télécharger le package lié à "Panique à la ferme"  
-        Enregistrer le fichier dans un répertoire dédié.    
+1. Télécharger le package lié à "Panique à la ferme"  ici : https://drive.google.com/drive/folders/1kBa131q2p46rpwxUfGLaYlDyEhgZiFdl?usp=drive_link  
+        Enregistrer le fichier .tar dans un répertoire dédié créé pour l'occasion.    
         **Ne pas le décompresser/dézipper**  
 
 
-2.	Il faut installer R, version 4.3.2 :  https://cran.r-project.org/bin/windows/base/old/4.3.2/  
-3.	Il faut installer Rstudio si vous ne l’avez pas : https://posit.co/download/rstudio-desktop/  
+2.	Installer R, version 4.3.2 :  https://cran.r-project.org/bin/windows/base/old/4.3.2/  
+3.	Installer Rstudio si vous ne l’avez pas : https://posit.co/download/rstudio-desktop/  
  
 Pour installer un jeu il suffit de faire tourner un court script qui va installer le package R qui contient le jeu.   
 
