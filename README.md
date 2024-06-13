@@ -34,5 +34,5 @@ Pour installer un jeu il suffit de faire tourner un court script qui va installe
 
 # Un problème ? 
 
-Utiliser la fonction pull request (en haut) offerte pas github. 
+Utiliser la fonction pull request (en haut) offerte pas github ou écrivez moi à adrien.lebreton@idele.fr  
 
