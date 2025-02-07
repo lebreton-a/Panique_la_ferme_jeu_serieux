@@ -19,10 +19,12 @@ Il existe 2 jeux : « R’scape the office » et « Panique à la ferme ». Ils 
  
 Pour installer un jeu il suffit de faire tourner un court script qui va installer le package R qui contient le jeu.   
 
-3.	Téléchargez le script d’installation "Installation_PANIQUE.Rmd" à disposition dans ce dépot GIT un peu plus haut, dans le répertoire dédié au jeu que vous venez de créer.  
-4.	Ouvrez le script d’installation   
-5.	Suivez les instructions du script d’installation  
-        Important lors du lancement du script d’installation, si :  
+3. Créez un projet R dans le répertoire "jeu sérieux" pour fixer la source du chemin dans le répertoire "jeu sérieux"
+           Dans R studio : File / New project / Existing Directory / Choisir ici le répertoire "jeu sérieux"
+5. Téléchargez le script d’installation "Installation_PANIQUE.Rmd" à disposition dans ce dépot GIT un peu plus haut, dans le répertoire dédié au jeu que vous venez de créer.
+6. Ouvrez le script d’installation
+7. Suivez les instructions du script d’installation  
+   Important lors du lancement du script d’installation, si :  
             •	R souhaite relancer une nouvelle session, cliquez sur « oui » la première fois uniquement  
             •	Si R souhaite installer des packages depuis la « source », cliquez toujours sur « non ».  
 
