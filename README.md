@@ -54,6 +54,8 @@ Dans le google drive, vous trouverez également un dossier avec des exemples de 
 2) une période de jeu de 45 min à 1h selon le niveau et les connaissances préalables des étudiants
 3) une période de débriefing de 30 min à 45 min pour ancrer les concepts découverts lors de la phase de jeu
 
+Lien du google drive : https://drive.google.com/drive/folders/1kBa131q2p46rpwxUfGLaYlDyEhgZiFdl?usp=drive_link 
+
 # Un problème ? 
 
 Utiliser la fonction pull request (en haut) offerte pas github ou écrivez moi à adrien.lebreton@idele.fr  
