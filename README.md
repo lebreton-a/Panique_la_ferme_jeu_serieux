@@ -22,8 +22,10 @@ Pour installer un jeu il suffit de faire tourner un court script qui va installe
 3. Créez un projet R dans le répertoire "jeu sérieux" pour fixer la source du chemin dans le répertoire "jeu sérieux"  
            Dans R studio : File / New project / Existing Directory / Choisir ici le répertoire "jeu sérieux"  
 5. Téléchargez le script d’installation "Installation_PANIQUE.Rmd" à disposition dans ce dépot GIT un peu plus haut, dans le répertoire dédié au jeu que vous venez de créer.
-6. Ouvrez le script d’installation
-7. Suivez les instructions du script d’installation  
+   ![image](https://github.com/user-attachments/assets/b1f011dc-95b2-42bf-8421-581f451ef9bf)
+
+7. Ouvrez le script d’installation
+8. Suivez les instructions du script d’installation  
    Important lors du lancement du script d’installation, si :  
             •	R souhaite relancer une nouvelle session, cliquez sur « oui » la première fois uniquement  
             •	Si R souhaite installer des packages depuis la « source », cliquez toujours sur « non ».  
@@ -31,8 +33,11 @@ Pour installer un jeu il suffit de faire tourner un court script qui va installe
    
 # Lancement du jeu Panique à la ferme
 
-1. Télécharger le script "lancement_PANIQUE.Rmd" depuis ce dépot GIT vers le répertoire dédié.   
-2. Ouvrir le script lancement des jeux et faites tourner toutes les lignes de la cellule correspondant au jeu que vous souhaitez lancer.
+1. Télécharger le script "lancement_PANIQUE.Rmd" depuis ce dépot GIT vers le répertoire dédié.
+
+   ![image](https://github.com/user-attachments/assets/6259dbe6-bece-4b3b-a547-8dba1ece9d23)
+
+3. Ouvrir le script lancement des jeux et faites tourner toutes les lignes de la cellule correspondant au jeu que vous souhaitez lancer.
 
 # Un problème ? 
 
