@@ -47,6 +47,13 @@ Pour installer un jeu il suffit de faire tourner un court script qui va installe
 
 3. Ouvrir le script lancement des jeux et faites tourner toutes les lignes de la cellule correspondant au jeu que vous souhaitez lancer.
 
+# Animation du jeu Panique à la Ferme
+
+Dans le google drive, vous trouverez également un dossier avec des exemples de support d'animation. Nous vous conseillons d'organisé votre séquence d'animation en : 
+1) une période d'introduction (15 à 20 min) avec la présentation des grands concepts et les règles du jeu
+2) une période de jeu de 45 min à 1h selon le niveau et les connaissances préalables des étudiants
+3) une période de débriefing de 30 min à 45 min pour ancrer les concepts découverts lors de la phase de jeu
+
 # Un problème ? 
 
 Utiliser la fonction pull request (en haut) offerte pas github ou écrivez moi à adrien.lebreton@idele.fr  
